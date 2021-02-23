@@ -1,0 +1,64 @@
+.main{
+  width:1305px;
+  height:650px;
+  border: 2px solid green;
+  border: 2px solid gray;
+  background-color: whitesmoke;
+  margin: 0 auto;
+  justify-content: center;
+  
+}
+
+.left{
+  width:600px;
+  height:650px;
+  /*border: 2px solid gray;*/
+  background-color: transparent;
+  position: absolute;
+  overflow: hidden;
+}
+#footer{
+  box-shadow: grays;
+  background-color: #2A3891;
+  width: 100%;
+  color: white;
+}
+.right{
+  width: 750px;
+  height: 645px;
+  background-color:transparent;
+  position: relative;
+  margin-left: 550px;
+  margin-top: 0%;
+  overflow: hidden;
+  border-left: 2px solid gray;
+}
+#mail1{
+  color: rgb(9, 127, 156);
+}
+.button1{
+  background-color: blue;
+  color: white;
+  height: 40px;
+  width: 150px;
+}
+#img1{
+  height: 250px;
+  width: 300px;
+}
+#tx1{
+border:none;
+border-bottom:2px solid rgb(109, 109, 109);
+background-color: transparent;
+width:280px;
+height: 50px;
+}
+.button2{
+  background-color: violet;
+  border:4px solid rgb(132, 119, 255);
+border-radius: 8px;
+  height: 60px;
+  width: 190px;
+}
+
+
